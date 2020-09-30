@@ -1,5 +1,5 @@
 # Android-App-Development
-Android App Development Course
+Android App Development Course - Easy to learn
 
 1. Currency Converter (converts Korean Won into US dollars)
 2. Dog Switcher (switches images)
